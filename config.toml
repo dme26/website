@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.example.com"
+baseurl = "http://camflow.org/"
 languageCode = "en-us"
 title = "Highlights"
 theme = "hugo-highlights-theme"
