@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://camflow.org/"
 languageCode = "en-us"
-title = "Highlights"
+title = "CamFlow: Practical Whole-System Provenance for Linux"
 theme = "hugo-highlights-theme"
 
 # Enter your tracking code to enable Google analytics
@@ -17,7 +17,7 @@ googleAnalytics = "UA-83032453-1"
   # To provide more meta data for search engings feel free to add a few informations.
   # This lines will be inserted as meta tags.
   name = "CamFlow"
-  description = "Practical Linux Provenance"
+  description = "Practical Whole-System Provenance for Linux"
 
   # For a static site it's not possible to provide a contact form. The contact form uses
   # www.formspree.io as a proxy. The form makes a Post request to their servers to send an email
