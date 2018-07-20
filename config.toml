@@ -5,7 +5,7 @@ title = "Highlights"
 theme = "hugo-highlights-theme"
 
 # Enter your tracking code to enable Google analytics
-googleAnalytics = ""
+googleAnalytics = "UA-83032453-1"
 
 [params]
 
