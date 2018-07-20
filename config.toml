@@ -54,7 +54,7 @@ googleAnalytics = "UA-83032453-1"
     description = "CamFlow stands for Cambridge information Flow architecture, the Cam is also the river that flows through Cambridge, UK. CamFlow is a Linux Security Modules (LSMs) designed to capture data provenance for the purpose of system audit. The provenance capture mechanism is highly configurable, and can fit the needs of many different type of applications. CamFlow can stack with existing security modules such as SELinux."
     buttontext = "next"
     # the picture is storead at static/images/
-    picture = "pic01.jpg"
+    picture = "pic02.jpg"
 
   # skill section
   [[params.block]]
@@ -74,7 +74,7 @@ googleAnalytics = "UA-83032453-1"
     </table>"
     buttontext = "next"
     # the picture is storead at static/images/
-    picture = "pic02.jpg"
+    picture = "pic03.jpg"
 
 	# skill section
   [[params.block]]
@@ -84,7 +84,7 @@ googleAnalytics = "UA-83032453-1"
     description = "For instructions on how to install and use CamFlow see our <a href=\"https://github.com/CamFlow/documentation/blob/master/README.md\" target=\"_blank\">documentation</a>. We also provide <a href=\"https://github.com/CamFlow/vagrant\" target=\"_blank\">vagrant scripts</a> to easily setup virtual machines running CamFlow. The source code of every CamFlow components is available <a href=\"https://github.com/CamFlow/\" target=\"_blank\">on github</a>. Please do not hesitate to fork our project or create issues to report bugs."
     buttontext = "next"
     # the picture is storead at static/images/
-    picture = "pic02.jpg"
+    picture = "pic04.jpg"
 
 	# skill section
   [[params.block]]
@@ -94,7 +94,7 @@ googleAnalytics = "UA-83032453-1"
     description = "The easiest way to contribute to CamFlow is by submitting issues to suggest improvement or report bug. When reporting a bug, please specify the version of CamFlow you are running and your Linux distribution. To contribute a new feature, please fork the repository of the component you wish to improve, and submit a pull request against the dev branch. The pull request must pass the continuous integration test before it can be merged."
     buttontext = "next"
     # the picture is storead at static/images/
-    picture = "pic02.jpg"
+    picture = "pic05.jpg"
 
 	# skill section
   [[params.block]]
@@ -109,7 +109,7 @@ googleAnalytics = "UA-83032453-1"
 		Pasquier T., Singh J., Eyers D., and Bacon J. <strong>CamFlow: Managed Data-Sharing for Cloud Services</strong>. IEEE Transactions on Cloud Computing (2015), IEEE. <a href=\"https://github.com/CamFlow/publications/raw/master/2015camflowtcc.pdf\">.pdf</a> <a href=\"https://raw.githubusercontent.com/CamFlow/publications/master/2015camflowtcc.bib\">.bib</a>"
     buttontext = "next"
     # the picture is storead at static/images/
-    picture = "pic02.jpg"
+    picture = "pic04.jpg"
 
   # infos section
   [[params.block]]
@@ -139,7 +139,7 @@ googleAnalytics = "UA-83032453-1"
     id = "contact"
     type = "contact"
     title = "Get in Touch"
-    picture = "pic05.jpg"
+    picture = "pic02.jpg"
 
     [params.block.form]
       name = "Name"
