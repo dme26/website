@@ -185,4 +185,4 @@ googleAnalytics = "UA-83032453-1"
     #[params.footer.copyright.notice]
 
       [[params.footer.copyright.notice]]
-        text = "© Thomas Pasquier, University of Cambridge"
+        text = "© [Thomas Pasquier](http://tfjmp.org/), University of Cambridge"
