@@ -51,7 +51,11 @@ googleAnalytics = "UA-83032453-1"
     id = "about"
     type = "text"
     title = "What is CamFlow?"
-    description = "CamFlow stands for Cambridge information Flow architecture, the Cam is also the river that flows through Cambridge, UK. CamFlow is a Linux Security Modules (LSMs) designed to capture data provenance for the purpose of system audit. The provenance capture mechanism is highly configurable, and can fit the needs of many different type of applications. CamFlow can stack with existing security modules such as SELinux."
+    description = "CamFlow stands for Cambridge information Flow architecture, the Cam is also the river that flows through Cambridge, UK.\
+		CamFlow is a Linux Security Modules (LSMs) designed to capture data provenance for the purpose of system audit.\
+		The provenance capture mechanism is highly configurable, and can fit the needs of many different type of applications.\
+		CamFlow can stack with existing security modules such as SELinux.\
+		Visit our project on [github](https://github.com/CamFlow)."
     buttontext = "next"
     # the picture is storead at static/images/
     picture = "pic02.jpg"
