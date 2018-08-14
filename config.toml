@@ -65,16 +65,18 @@ googleAnalytics = "UA-83032453-1"
     id = "research"
     type = "text"
     title = "Research Project"
-    description = "CamFlow development started in 2014 as the result of research at the University of Cambridge <a href=\"https://www.cl.cam.ac.uk/research/srg/opera/\" target=\"_blank\">Opera Research Group</a> \
+    description = "CamFlow development started in 2014 at the University of Cambridge <a href=\"https://www.cl.cam.ac.uk/research/srg/opera/\" target=\"_blank\">Opera Research Group</a> \
 		(grant <a href=\"http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K011510/1\" target=\"_blank\">EPSRC EP/K011510/1</a>). \
 		Further development has been supported by Harvard University's <a href=\"https://crcs.seas.harvard.edu/\" target=\"_blank\">Center for Research on Computation and Society</a> as part of the <a href=\"https://projects.iq.harvard.edu/provenance-at-harvard\" target=\"_blank\">Provenance@Harvard</a> project \
 		(NSF grant <a href=\"https://nsf.gov/awardsearch/showAward?AWD_ID=1450277\" target=\"_blank\">SSI-1450277</a>) \
 		and the University of Cambridge's <a href=\"https://www.cl.cam.ac.uk/research/dtg/www/\" target=\"_blank\">Digital Technology Group</a>.\
+		Development is currently being supported at <a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\">the University of Bristol Cyber Security Group</a>.\
 		<table>\
       <tr>\
         <td><a href=\"https://www.cl.cam.ac.uk/research/srg/opera/\" target=\"_blank\"><img src=\"./images/cambridge.png\" width=\"80%\"></a></td>\
         <td><a href=\"https://syrah.eecs.harvard.edu/\" target=\"_blank\"><img src=\"./images/harvard.png\" width=\"80%\"></a></td>\
       </tr>\
+			<tr><a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\"><img src=\"./images/bristol.png\" width=\"80%\"></a></tr>\
     </table>"
     buttontext = "next"
     # the picture is storead at static/images/
