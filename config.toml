@@ -76,7 +76,10 @@ googleAnalytics = "UA-83032453-1"
         <td><a href=\"https://www.cl.cam.ac.uk/research/srg/opera/\" target=\"_blank\"><img src=\"./images/cambridge.png\" width=\"80%\"></a></td>\
         <td><a href=\"https://syrah.eecs.harvard.edu/\" target=\"_blank\"><img src=\"./images/harvard.png\" width=\"80%\"></a></td>\
       </tr>\
-			<tr><a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\"><img src=\"./images/bristol.png\" width=\"80%\"></a></tr>\
+			<tr>\
+        <td><a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\"><img src=\"./images/bristol.png\" width=\"80%\"></a></td>
+        <td><a href=\"https://www.cs.ubc.ca/\" target=\"_blank\"><img src=\"./images/ubc.jpg\" width=\"80%\"></a></td>\
+      </tr>\
     </table>"
     buttontext = "next"
     # the picture is storead at static/images/
