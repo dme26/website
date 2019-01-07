@@ -78,7 +78,7 @@ googleAnalytics = "UA-83032453-1"
       </tr>\
 			<tr>\
         <td><a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\"><img src=\"./images/bristol.png\" width=\"80%\"></a></td>\
-        <td><a href=\"https://www.cs.ubc.ca/\" target=\"_blank\"><img src=\"./images/ubc.jpg\" width=\"80%\"></a></td>\
+        <td><a href=\"http://www.seltzer.com/margo/research\" target=\"_blank\"><img src=\"./images/ubc.jpg\" width=\"80%\"></a></td>\
       </tr>\
     </table>"
     buttontext = "next"
