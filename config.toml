@@ -51,11 +51,11 @@ googleAnalytics = "UA-83032453-1"
     id = "about"
     type = "text"
     title = "What is CamFlow?"
-    description = "CamFlow stands for Cambridge information Flow architecture, the Cam is also the river that flows through Cambridge, UK.\
-		CamFlow is a Linux Security Modules (LSMs) designed to capture data provenance for the purpose of system audit.\
-		The provenance capture mechanism is highly configurable, and can fit the needs of many different type of applications.\
-		CamFlow can stack with existing security modules such as SELinux.\
-		Visit our project on <a href=\"https://github.com/CamFlow\" target=\"_blank\">github</a>."
+    description = """CamFlow stands for Cambridge information Flow architecture, the Cam is also the river that flows through Cambridge, UK.
+		CamFlow is a Linux Security Modules (LSMs) designed to capture data provenance for the purpose of system audit.
+		The provenance capture mechanism is highly configurable, and can fit the needs of many different type of applications.
+		CamFlow can stack with existing security modules such as SELinux.
+		Visit our project on <a href=\"https://github.com/CamFlow\" target=\"_blank\">github</a>."""
     buttontext = "next"
     # the picture is storead at static/images/
     picture = "pic02.jpg"
@@ -65,22 +65,22 @@ googleAnalytics = "UA-83032453-1"
     id = "research"
     type = "text"
     title = "Research Project"
-    description = "CamFlow development started in 2014 at the University of Cambridge <a href=\"https://www.cl.cam.ac.uk/research/srg/opera/\" target=\"_blank\">Opera Research Group</a> \
-		(grant <a href=\"http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K011510/1\" target=\"_blank\">EPSRC EP/K011510/1</a>). \
-		Further development has been supported by Harvard University's <a href=\"https://crcs.seas.harvard.edu/\" target=\"_blank\">Center for Research on Computation and Society</a> as part of the <a href=\"https://projects.iq.harvard.edu/provenance-at-harvard\" target=\"_blank\">Provenance@Harvard</a> project \
-		(NSF grant <a href=\"https://nsf.gov/awardsearch/showAward?AWD_ID=1450277\" target=\"_blank\">SSI-1450277</a>) \
-		and the University of Cambridge's <a href=\"https://www.cl.cam.ac.uk/research/dtg/www/\" target=\"_blank\">Digital Technology Group</a>.\
-		Development is currently being supported at <a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\">the University of Bristol Cyber Security Group</a>.\
-		<table>\
-      <tr>\
-        <td><a href=\"https://www.cl.cam.ac.uk/research/srg/opera/\" target=\"_blank\"><img src=\"./images/cambridge.png\" width=\"80%\"></a></td>\
-        <td><a href=\"https://syrah.eecs.harvard.edu/\" target=\"_blank\"><img src=\"./images/harvard.png\" width=\"80%\"></a></td>\
-      </tr>\
-			<tr>\
-        <td><a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\"><img src=\"./images/bristol.png\" width=\"80%\"></a></td>\
-        <td><a href=\"http://www.seltzer.com/margo/research\" target=\"_blank\"><img src=\"./images/ubc.jpg\" width=\"80%\"></a></td>\
-      </tr>\
-    </table>"
+    description = """CamFlow development started in 2014 at the University of Cambridge <a href=\"https://www.cl.cam.ac.uk/research/srg/opera/\" target=\"_blank\">Opera Research Group</a>
+		(grant <a href=\"http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K011510/1\" target=\"_blank\">EPSRC EP/K011510/1</a>).
+		Further development has been supported by Harvard University's <a href=\"https://crcs.seas.harvard.edu/\" target=\"_blank\">Center for Research on Computation and Society</a> as part of the <a href=\"https://projects.iq.harvard.edu/provenance-at-harvard\" target=\"_blank\">Provenance@Harvard</a> project
+		(NSF grant <a href=\"https://nsf.gov/awardsearch/showAward?AWD_ID=1450277\" target=\"_blank\">SSI-1450277</a>)
+		and the University of Cambridge's <a href=\"https://www.cl.cam.ac.uk/research/dtg/www/\" target=\"_blank\">Digital Technology Group</a>.
+		Development is currently being supported at <a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\">the University of Bristol Cyber Security Group</a>.
+		<table>
+      <tr>
+        <td><a href=\"https://www.cl.cam.ac.uk/research/srg/opera/\" target=\"_blank\"><img src=\"./images/cambridge.png\" width=\"80%\"></a></td>
+        <td><a href=\"https://syrah.eecs.harvard.edu/\" target=\"_blank\"><img src=\"./images/harvard.png\" width=\"80%\"></a></td>
+      </tr>
+			<tr>
+        <td><a href=\"http://www.bristol.ac.uk/engineering/research/cyber-security/\" target=\"_blank\"><img src=\"./images/bristol.png\" width=\"80%\"></a></td>
+        <td><a href=\"http://www.seltzer.com/margo/research\" target=\"_blank\"><img src=\"./images/ubc.jpg\" width=\"80%\"></a></td>
+      </tr>
+    </table>"""
     buttontext = "next"
     # the picture is storead at static/images/
     picture = "pic03.jpg"
@@ -90,10 +90,10 @@ googleAnalytics = "UA-83032453-1"
     id = "installation"
     type = "text"
     title = "Installation"
-    description = "For instructions on how to install and use CamFlow see our <a href=\"https://github.com/CamFlow/documentation/blob/master/README.md\" target=\"_blank\">documentation</a>.\
-		We also provide <a href=\"https://github.com/CamFlow/vagrant\" target=\"_blank\">vagrant scripts</a> to easily setup virtual machines running CamFlow.\
-		The source code of every CamFlow components is available on <a href=\"https://github.com/CamFlow/\" target=\"_blank\">github</a>.\
-		Please do not hesitate to fork our project or create issues to report bugs."
+    description = """For instructions on how to install and use CamFlow see our <a href=\"https://github.com/CamFlow/documentation/blob/master/README.md\" target=\"_blank\">documentation</a>.
+		We also provide <a href=\"https://github.com/CamFlow/vagrant\" target=\"_blank\">vagrant scripts</a> to easily setup virtual machines running CamFlow.
+		The source code of every CamFlow components is available on <a href=\"https://github.com/CamFlow/\" target=\"_blank\">github</a>.
+		Please do not hesitate to fork our project or create issues to report bugs."""
     buttontext = "next"
     # the picture is storead at static/images/
     picture = "pic04.jpg"
@@ -103,10 +103,10 @@ googleAnalytics = "UA-83032453-1"
     id = "contributing"
     type = "text"
     title = "Contributing"
-    description = "The easiest way to contribute to CamFlow is by submitting issues to suggest improvement or report bug.\
-		When reporting a bug, please specify the version of CamFlow you are running and your Linux distribution.\
-		To contribute a new feature, please fork the repository of the component you wish to improve, and submit a pull request against the dev branch.\
-		The pull request must pass the continuous integration test before it can be merged."
+    description = """The easiest way to contribute to CamFlow is by submitting issues to suggest improvement or report bug.
+		When reporting a bug, please specify the version of CamFlow you are running and your Linux distribution.
+		To contribute a new feature, please fork the repository of the component you wish to improve, and submit a pull request against the dev branch.
+		The pull request must pass the continuous integration test before it can be merged."""
     buttontext = "next"
     # the picture is storead at static/images/
     picture = "pic05.jpg"
@@ -116,13 +116,13 @@ googleAnalytics = "UA-83032453-1"
     id = "publications"
     type = "text"
     title = "Publications"
-    description = "CamFlow is discussed in the following publications. \
-		Details given in these papers may be outdated - please refer to the code if in doubt or contact us. \
-		<br><br>\
-		Pasquier T., Han X., Moyer T., Bates A.,  Eyers D., Hermant O., Bacon J. and  Seltzer M. <strong>Runtime Analysis of Whole-System Provenance</strong>. Conference on Computer and Communications Security (CCS'18) (2018), ACM. <a href=\"./publications/ccs-2018.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/ccs-2018.bib\" target=\"_blank\">bib</a><br>\
-		Pasquier T., Han X., Goldstein M., Moyer T., Eyers D., Seltzer M. and Bacon J. <strong>Practical Whole-System Provenance Capture</strong>. Symposium on Cloud Computing (SoCC'17) (2017), ACM. <a href=\"./publications/socc-2017.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/socc-2017.bib\" target=\"_blank\">bib</a> <a href=\"./posters/socc-2017.pdf\" target=\"_blank\">poster</a><br>\
-		Pasquier T., Singh J., , Bacon J., and Eyers D. <strong>Information Flow Audit for PaaS Clouds</strong>. In International Conference on Cloud Engineering (IC2E) (2016), IEEE. <a href=\"./publications/ic2e-2016.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/ic2e-2016.bib\" target=\"_blank\">bib</a><br>\
-		Pasquier T., Singh J., Eyers D., and Bacon J. <strong>CamFlow: Managed Data-Sharing for Cloud Services</strong>. IEEE Transactions on Cloud Computing (2015), IEEE. <a href=\"./publications/tcc-2015.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/tcc-2015.bib\" target=\"_blank\">.bib</a>"
+    description = """CamFlow is discussed in the following publications.
+		Details given in these papers may be outdated - please refer to the code if in doubt or contact us.
+		<br><br>
+		Pasquier T., Han X., Moyer T., Bates A.,  Eyers D., Hermant O., Bacon J. and  Seltzer M. <strong>Runtime Analysis of Whole-System Provenance</strong>. Conference on Computer and Communications Security (CCS'18) (2018), ACM. <a href=\"./publications/ccs-2018.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/ccs-2018.bib\" target=\"_blank\">bib</a><br>
+		Pasquier T., Han X., Goldstein M., Moyer T., Eyers D., Seltzer M. and Bacon J. <strong>Practical Whole-System Provenance Capture</strong>. Symposium on Cloud Computing (SoCC'17) (2017), ACM. <a href=\"./publications/socc-2017.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/socc-2017.bib\" target=\"_blank\">bib</a> <a href=\"./posters/socc-2017.pdf\" target=\"_blank\">poster</a><br>
+		Pasquier T., Singh J., , Bacon J., and Eyers D. <strong>Information Flow Audit for PaaS Clouds</strong>. In International Conference on Cloud Engineering (IC2E) (2016), IEEE. <a href=\"./publications/ic2e-2016.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/ic2e-2016.bib\" target=\"_blank\">bib</a><br>
+		Pasquier T., Singh J., Eyers D., and Bacon J. <strong>CamFlow: Managed Data-Sharing for Cloud Services</strong>. IEEE Transactions on Cloud Computing (2015), IEEE. <a href=\"./publications/tcc-2015.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/tcc-2015.bib\" target=\"_blank\">.bib</a>"""
     buttontext = "next"
     # the picture is storead at static/images/
     picture = "pic04.jpg"
@@ -132,11 +132,11 @@ googleAnalytics = "UA-83032453-1"
     id = "others"
     type = "text"
     title = "Use cases"
-    description = "Han X., Pasquier T. and Seltzer M. <strong>Provenance-based Intrusion Detection: Opportunities and Challenges</strong>. Workshop on the Theory and Practice of Provenance (TaPP'18) (2018), USENIX. <a href=\"./publications/tapp-2018.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/tapp-2018.bib\" target=\"_blank\">bib</a> <a href=\"https://www.usenix.org/conference/tapp2018/presentation/han\" target=\"_blank\">website</a><br>\
-		Wang F., Joung Y., and Mickens J. <strong>Cobweb: Practical Remote Attestation Using Contextual Graphs</strong>. Workshop on System Software for Trusted Execution (SysTEX'17) (2017), ACM. <a href=\"https://mickens.seas.harvard.edu/files/mickens/files/cobweb.pdf\" target=\"_blank\">.pdf</a> <a href=\"https://dl.acm.org/downformats.cfm?id=3152705&parent_id=3152701&expformat=bibtex&CFID=837880949&CFTOKEN=91832166\" target=\"_blank\">.bib</a><br>\
-		Han X., Pasquier T., Ranjan T., Goldstein M., and Seltzer M. <strong>FRAPpuccino: Fault-detection through Runtime Analysis of Provenance</strong>. Workshop on Hot Topics in Cloud Computing (HotCloud'17) (2017), USENIX. <a href=\"./publications/hotcloud-2017.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/hotcloud-2017.bib\" target=\"_blank\">bib</a> <a href=\"https://www.usenix.org/conference/hotcloud17/program/presentation/han\" target=\"_blank\">website</a> <a href=\"./posters/hotcloud-2017.pdf\" target=\"_blank\">poster</a><br>\
-		Pasquier T.  and Eyers D. <strong>Information Flow Audit for Transparency and Compliance in the Handling of Personal Data</strong>. IC2E International Workshop on Legal and Technical Issues in Cloud Computing (CLaw'16) (2016),  IEEE. <a href=\"./publications/claw-2016.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/claw-2016.bib\" target=\"_blank\">bib</a><br>\
-		"
+    description = """Han X., Pasquier T. and Seltzer M. <strong>Provenance-based Intrusion Detection: Opportunities and Challenges</strong>. Workshop on the Theory and Practice of Provenance (TaPP'18) (2018), USENIX. <a href=\"./publications/tapp-2018.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/tapp-2018.bib\" target=\"_blank\">bib</a> <a href=\"https://www.usenix.org/conference/tapp2018/presentation/han\" target=\"_blank\">website</a><br>
+		Wang F., Joung Y., and Mickens J. <strong>Cobweb: Practical Remote Attestation Using Contextual Graphs</strong>. Workshop on System Software for Trusted Execution (SysTEX'17) (2017), ACM. <a href=\"https://mickens.seas.harvard.edu/files/mickens/files/cobweb.pdf\" target=\"_blank\">.pdf</a> <a href=\"https://dl.acm.org/downformats.cfm?id=3152705&parent_id=3152701&expformat=bibtex&CFID=837880949&CFTOKEN=91832166\" target=\"_blank\">.bib</a><br>
+		Han X., Pasquier T., Ranjan T., Goldstein M., and Seltzer M. <strong>FRAPpuccino: Fault-detection through Runtime Analysis of Provenance</strong>. Workshop on Hot Topics in Cloud Computing (HotCloud'17) (2017), USENIX. <a href=\"./publications/hotcloud-2017.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/hotcloud-2017.bib\" target=\"_blank\">bib</a> <a href=\"https://www.usenix.org/conference/hotcloud17/program/presentation/han\" target=\"_blank\">website</a> <a href=\"./posters/hotcloud-2017.pdf\" target=\"_blank\">poster</a><br>
+		Pasquier T.  and Eyers D. <strong>Information Flow Audit for Transparency and Compliance in the Handling of Personal Data</strong>. IC2E International Workshop on Legal and Technical Issues in Cloud Computing (CLaw'16) (2016),  IEEE. <a href=\"./publications/claw-2016.pdf\" target=\"_blank\">.pdf</a> <a href=\"./citations/claw-2016.bib\" target=\"_blank\">bib</a><br>
+    """
     # the picture is storead at static/images/
     picture = "pic03.jpg"
 
