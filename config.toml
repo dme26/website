@@ -9,7 +9,7 @@ pygmentsStyle = "monokailight"
 
 [params]
 externalTitle = "Learn more"
-sidebarColor = "default"
+sidebarColor = "blue"
 customCss = []
 
 [[menu.shortcuts]]
