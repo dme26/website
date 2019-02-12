@@ -68,7 +68,7 @@ Following is a list of the parameters and their effects, broken down by section.
 
 | value | effect |
 |-------|--------|
-| `w3c`        | use [w3c PROV-JSON](./w3c.md) format |
+| `w3c`        | use [w3c PROV-JSON](https://www.w3.org/Submission/2013/SUBM-prov-json-20130424/) format |
 | `spade_json` | use [SPADE JSON](https://github.com/ashish-gehani/SPADE/wiki/Reporting-provenance-using-JSON) format |
 
 ### log
