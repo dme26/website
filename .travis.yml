@@ -1,6 +1,6 @@
 before_install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.27.1/hugo_0.27.1_Linux-64bit.deb
-  - sudo apt -y install ./hugo_0.27.1_Linux-64bit.deb
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.deb
+  - sudo apt -y install ./hugo_0.53_Linux-64bit.deb
 script:
   - hugo --ignoreCache=true
 deploy:
