@@ -30,7 +30,7 @@ sudo apt-get install -y linux-headers-4.20.7camflow0.5.1+=4.20.7camflow0.5.1+-1
 Check [online](https://packagecloud.io/camflow/provenance) to find the latest version number and update the above script accordingly.
 {{% /block %}}
 
-### General
+### After installing packages 
 
 
 Next we need to activate the two CamFlow services:
