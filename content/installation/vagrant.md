@@ -5,7 +5,7 @@ anchor: "vagrant"
 weight: 20
 ---
 
-Using a vagrant virtual machine is much simpler. First you need to install [vagrant](https://www.vagrantup.com/docs/installation/) and [virtualbox](https://www.virtualbox.org/manual/ch02.html).
+Using a vagrant virtual machine is much simpler than building CamFlow from its sourcecode. First you need to install [vagrant](https://www.vagrantup.com/docs/installation/) and [virtualbox](https://www.virtualbox.org/manual/ch02.html).
 
 On Ubuntu, for example, that can be done as follows:
 ``` BASH
@@ -14,13 +14,13 @@ sudo apt-get install vagrant
 ```
 
 {{% block warn %}}
-Some Linux distributions ship very outdated version of VirtualBox or Vagrant.
-Outdated versions, and host/guest version mismatch are known to cause all sorts of troubles during provisioning.
+Some Linux distributions ship very old versions of VirtualBox or Vagrant.
+Using old versions of these tools, and host/guest version mismatch are both known to cause all sorts of troubles during the provisioning of virtual machines.
 
-Please check [Vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for details on how to install the latest version.
+Please check [Vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for details on how to install the latest version of each, on your chosen operating system.
 {{% /block %}}
 
-Once vagrant and virtualbox are installed, you need to obtain CamFlow vagrant provision script:
+Once vagrant and virtualbox are installed, you need to obtain the CamFlow vagrant provisioning script:
 ``` BASH
 git clone https://github.com/CamFlow/vagrant.git
 cd ./vagrant
