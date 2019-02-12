@@ -14,7 +14,6 @@ If you encounter any difficulty, please contact [Thomas Pasquier](http://tfjmp.o
 {{% /block %}}
 
 We assume a machine with CamFlow newly installed and running.
-More info on how to [install](https://github.com/CamFlow/documentation/blob/master/docs/installation.md) and [run](https://github.com/CamFlow/documentation/blob/master/docs/tutorial.md) CamFlow are available.
 To build and load the demo query, do as follow:
 ```
 git clone https://github.com/camflow/libcamquery

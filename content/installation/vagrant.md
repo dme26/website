@@ -13,7 +13,7 @@ sudo apt-get install virtualbox
 sudo apt-get install vagrant
 ```
 
-{{% block note %}}
+{{% block warn %}}
 Some Linux distributions ship very outdated version of VirtualBox or Vagrant.
 Outdated versions, and host/guest version mismatch are known to cause all sorts of troubles during provisioning.
 
@@ -37,7 +37,7 @@ vagrant up
 ```
 
 
-{{% block note %}}
+{{% block warn %}}
 Running virtual machines is resource consuming. Please, make sure the host has sufficient resource to do so (disk space, RAM, CPU etc.).
 {{% /block %}}
 

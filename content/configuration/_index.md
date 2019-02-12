@@ -9,7 +9,8 @@ One of the strengths of CamFlow is the ability to fine-tune the provenance infor
 Edit `/etc/camflow.ini` to modify the capture configuration.
 To apply a new configuration, reboot the machine.
 
-{{% block note %}}
+{{% block tip %}}
 Alternatively when developing policy you can experiment using `camflow` CLI (see `camflow -h`).
-policy defined through the CLI are not persisted in current release.
+Policies defined through the CLI are not persisted in current release.
 {{% /block %}}
+`

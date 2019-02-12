@@ -56,7 +56,7 @@ This will build and install the CamFlow Linux Security Module as well as the use
 
 The kernel configuration derives from the configuration currently present on the system where you run the build. Early in the build process you will be presented with a GUI to customise the kernel configuration. If you are not sure what to do, do not modify the configuration.
 
-{{% block note %}}
+{{% block warn %}}
 Configuration options need to be carefully considered in resource constrained environment.
 {{% /block %}}
 

@@ -10,6 +10,6 @@ CamFlow is a [Linux Security Modules](https://www.kernel.org/doc/Documentation/s
 The provenance capture mechanism is highly configurable, and can fit the needs of many different type of applications.
 CamFlow can stack with existing security modules such as [SELinux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-selinux).
 
-{{% block note %}}
+{{% block info %}}
 To get in touch about the project, please contact [Thomas Pasquier](http://tfjmp.org).
 {{% /block %}}
