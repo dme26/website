@@ -12,3 +12,6 @@ deploy:
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   fqdn: camflow.org
   name: Travis
+
+notifications:
+  slack: camflow:T3Umf9cAIwKnaxFEkjeZV7RM
